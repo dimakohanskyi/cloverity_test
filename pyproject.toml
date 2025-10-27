@@ -1,5 +1,5 @@
 [project]
-name = "cloverity-test"
+name = "cloverity_test"
 version = "0.1.0"
 description = ""
 package-mode = false

@@ -4,7 +4,7 @@
 
 ```bash
 git clone https://github.com/dimakohanskyi/cloverity_test
-cd cloverity-test
+cd cloverity_test
 ```
 
 2. Install Poetry (if not already installed):
