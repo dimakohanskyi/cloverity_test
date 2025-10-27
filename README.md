@@ -14,7 +14,7 @@ curl -sSL https://install.python-poetry.org | python3 -
 
 3. Install dependencies using Poetry:
 ```bash
-poetry install
+poetry install --no-root
 ```
 
 ## Running the Application
